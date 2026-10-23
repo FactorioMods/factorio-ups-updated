@@ -3,7 +3,7 @@
   "title": "Factorio UPS+: Updated",
   "description": "Factorio 2.1 update of Factorio UPS+. Original author: Darcy Manoel. Various changes to improve UPS, especially in later-stage saves. Some intrusive changes can be toggled in settings per player preference.",
   "author": "Darcy Manoel (original); johnmart19 / FactorioMods (2.1 fork)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.23",
