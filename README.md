@@ -2,7 +2,7 @@
 
 Optional changes to daylight, pollution, enemies and map decoration, intended for large factories.
 
-**Factorio 2.1 · Version 1.0.2**
+**Factorio 2.1 · Version 1.0.3**
 
 - Choose the changes you want in mod settings.
 - Some options alter the world and gameplay; review them before enabling.

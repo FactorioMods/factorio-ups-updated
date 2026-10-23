@@ -1,6 +1,6 @@
 # Factorio 2.1 notes
 
-Tested with **Factorio 2.1.23**. Current fork version: **1.0.2**.
+Tested with **Factorio 2.1.23**. Current fork version: **1.0.3**.
 
 ## Changes
 
@@ -16,7 +16,7 @@ No overall UPS improvement was measured for these options. Tests did not cover e
 
 Tests used private copies of saves and local host/client sessions. Raw player data and test hooks are not shipped.
 
-The 1.0.2 patch changes changelog text and version metadata only; the feature tests above apply to the unchanged gameplay code.
+The 1.0.3 patch changes changelog text and version metadata only; the feature tests above apply to the unchanged gameplay code.
 
 ## Graphics update
 
